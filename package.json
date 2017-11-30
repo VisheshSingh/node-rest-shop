@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["node", "restful", "api"],
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
   "author": "Vishesh Thakur",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
